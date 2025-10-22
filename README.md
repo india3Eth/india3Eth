@@ -24,7 +24,8 @@
 ```typescript
 const rutvij = {
     pronouns: "He" | "Him",
-    currentRole: "Solution Engineer @ Unlimit Crypto",
+    currentRole: "Solution Engineer @ Meld"
+    previousRole: "Solution Engineer @ Unlimit Crypto",
     previousRole: "Full Stack Developer @ Embifi",
     education: ["M.Tech in Electrical Engineering", "B.Tech in ECE", "GATE Qualified"],
     code: ["JavaScript", "TypeScript", "Solidity"],
