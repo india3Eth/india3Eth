@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there, I'm Rutvij Patel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=700&lines=Solution+Engineer+%40+Unlimit+Crypto+%F0%9F%92%BC;Blockchain+Developer+%F0%9F%94%97;Smart+Contract+Engineer+%F0%9F%93%9C;Technical+Documentation+Expert+%F0%9F%93%9D;From+FinTech+to+Web3+Finance+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=700&lines=Solution+Engineer+%40+Meld%F0%9F%92%BC;Blockchain+Developer+%F0%9F%94%97;Smart+Contract+Engineer+%F0%9F%93%9C;Technical+Documentation+Expert+%F0%9F%93%9D;From+FinTech+to+Web3+Finance+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
